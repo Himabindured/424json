@@ -1,0 +1,83 @@
+{
+    "events": [
+      {
+        "sl_no": 1,
+        "name": "CLUB ACTIVITY INAUGURATION",
+        "date": "27-11-2021",
+        "details": "View details"
+      },
+      {
+        "sl_no": 2,
+        "name": "FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT",
+        "date": "14-12-2021 to 18-12-2021",
+        "details": "View details"
+      },
+      {
+        "sl_no": 3,
+        "name": "UDHBHAVA, Technical club Activity-'YOUR START-UP STORY'",
+        "date": "04-12-2021",
+        "details": "View details"
+      },
+      {
+        "sl_no": 4,
+        "name": "UNIVERSITY TOPPERS OF CSE DEPARTMENT-2021",
+        "date": "17-12-2021",
+        "details": "View details"
+      },
+      {
+        "sl_no": 5,
+        "name": "SPARKS-INTELLIGENTIA 22",
+        "date": "29-03-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 6,
+        "name": "UI DESIGNING HACKATHON",
+        "date": "16-05-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 7,
+        "name": "BOOTCAMP ON DATA ANALYTICS",
+        "date": "31-5-2022 to 4-6-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 8,
+        "name": "SMART INDIA HACKATHON",
+        "date": "25-8-2022 to 29-8-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 9,
+        "name": "PROTOTYPE DESIGN ON ROBOTICS",
+        "date": "21-10-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 10,
+        "name": "TWO DAYS WORKSHOP ON CLOUD COMPUTING AWS",
+        "date": "18-11-2022 to 19-11-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 11,
+        "name": "THREE DAYS WORKSHOP ON UI/UX DESIGN",
+        "date": "20-12-2022 to 22-12-2022",
+        "details": "View details"
+      },
+      {
+        "sl_no": 12,
+        "name": "CODING CLUB",
+        "date": "05-05-2023",
+        "details": "View details"
+      },
+      {
+        "sl_no": 13,
+        "name": "3-DAYS HANDS-ON WORKSHOP ON AGILE & SCRUM",
+        "date": "22-6-2023 to 24-6-2023",
+        "details": "View details"
+      }
+    ]
+  }
+  
